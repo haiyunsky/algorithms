@@ -1,2 +1,7 @@
 
 https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html
+
+
+https://www.jianshu.com/p/04bc8026d3c4
+
+https://blog.csdn.net/yuechuen/article/details/71502503
